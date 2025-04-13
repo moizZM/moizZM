@@ -51,19 +51,20 @@ I work as a **Werkstudent in Embedded Hardware at Microsynetics GmbH**, where I 
 
 ## 📁 Projects
 
-###  Smart Emergency Wristband  
-> Waterproof wearable with fall detection  
->  Fusion 360 + ANSYS |  Sensor benchmarking
 
-###  PCB Component Management System  
-> BOM-style Excel system for part sourcing and revision tracking
 
 ###  Autonomous Vehicle (AVR128A)  
 > Remote-controlled robot with IR start, HC05 Bluetooth, and ultrasonic avoidance
 
 ###  Line Following Robot (Arduino)  
 > FSM-based design with C++, SolidWorks prototyping, color sensor actions
+###  Push Button SMS Alert 
+>IoT project using the Raspberry Pi Pico W. I connected a simple push button to send SMS alerts through the Twilio API whenever it’s pressed. The system connects to Wi-Fi, and when the button is triggered, it sends a text message to a specified phone number.
 
+###  AND & OR gate using BJTs and MOSFETs  
+
+>This project was all about understanding transistor logic and solidifying my grasp of circuit design.
+>Skills: Soldering · Altium Designer · Electronic Circuit Design · Prototyping
 ### ⚙ Independent Hardware Projects  
 - **Logic Gates with BJTs** → Perfboard + PCB layout  
 - **Push Button SMS Alert** → Raspberry Pi Pico W + Twilio API
