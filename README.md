@@ -1,4 +1,4 @@
-#  Hi, I'm Moiz Zaheer Malik
+                                                                                                      #  Hi, I'm Moiz Zaheer Malik
 
 🎓 Electronics Engineering Student | ⚙️ Embedded Hardware / Software | Wearable Tech Developer  
 📍 Based in Germany  
