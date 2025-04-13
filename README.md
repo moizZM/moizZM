@@ -58,16 +58,18 @@ I work as a **Werkstudent in Embedded Hardware at Microsynetics GmbH**, where I 
 
 ###  Line Following Robot (Arduino)  
 > FSM-based design with C++, SolidWorks prototyping, color sensor actions
+> 
+### ⚙ Independent Hardware Projects
+
 ###  Push Button SMS Alert 
+>Raspberry Pi Pico W + Twilio API
 >IoT project using the Raspberry Pi Pico W. I connected a simple push button to send SMS alerts through the Twilio API whenever it’s pressed. The system connects to Wi-Fi, and when the button is triggered, it sends a text message to a specified phone number.
 
 ###  AND & OR gate using BJTs and MOSFETs  
-
+> Perfboard + PCB layout
 >This project was all about understanding transistor logic and solidifying my grasp of circuit design.
 >Skills: Soldering · Altium Designer · Electronic Circuit Design · Prototyping
-### ⚙ Independent Hardware Projects  
-- **Logic Gates with BJTs** → Perfboard + PCB layout  
-- **Push Button SMS Alert** → Raspberry Pi Pico W + Twilio API
+
 
 ---
 
