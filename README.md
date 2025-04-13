@@ -1,60 +1,77 @@
-# Hi 👋, I'm Moiz Zaheer Malik
+# 👋 Hi, I'm Moiz Zaheer Malik
 
-Electronics Engineering Student | Embedded Hardware Enthusiast | Wearable Tech Developer  
-📍 Germany  
-📧 moiz.zaheer@example.com *(replace with your actual email)*  
-🔗 [LinkedIn](https://linkedin.com/in/moiz-zaheer-malik-473ab1298)
-
----
-
-## 👨‍💻 About Me  
-I'm a 6th-semester Electronics Engineering student at Hochschule Hamm-Lippstadt (HSHL), currently working as a Werkstudent at **Emaded Hardware**. I have hands-on experience in embedded hardware development, including PCB design, 3D modeling, and simulation. My passion lies in creating innovative wearable technologies that address real-world problems.
+🎓 Electronics Engineering Student | ⚙️ Embedded Hardware Enthusiast | 🧠 Wearable Tech Developer  
+📍 Based in Germany  
+📧 moiz.zaheer.malik@stud.hshl.de  
+🔗 [LinkedIn](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
 
 ---
 
-## 🛠 Technical Skills  
-- **CAD & Simulation:** Fusion 360, ANSYS  
-- **Programming:** Python (beginner), MATLAB  
-- **Embedded Systems:** Sensor Integration, Fall Detection Algorithms  
-- **Tools & Documentation:** Excel (Altium-style BOMs), LaTeX, Git  
-- **Languages:** English (Fluent), German (Good)
+## 🧠 About Me
+
+I’m currently in my 6th semester of Electronics Engineering at **Hochschule Hamm-Lippstadt (HSHL)**.  
+I work as a **Werkstudent in Embedded Hardware at Microsynetics GmbH**, where I design PCBs, develop wearable technologies, and run simulations to optimize embedded systems. My passion lies in bridging hardware with smart functionality to create meaningful, real-world solutions.
 
 ---
 
-## 🎓 Education  
-**Bachelor of Engineering in Electronics Engineering** *(Ongoing)*  
-Hochschule Hamm-Lippstadt (HSHL), Germany
+## 🔧 Skills
+
+- **🛠 CAD & Simulation:** Fusion 360, SolidWorks, ANSYS  
+- **💻 Programming & Tools:** C++, Python (beginner), MATLAB, Arduino, Git, LaTeX  
+- **📡 Embedded Systems:** Sensor Integration, AT Commands, Fall Detection, FSMs  
+- **🧩 PCB Design:** Altium Designer, EMI Reduction, BOM Management  
+- **🧪 Prototyping:** Raspberry Pi Pico W, 3D Printing (Bambu X1, Prusa), Perfboards  
+- **🌐 Languages:** English (Fluent), German (Basic)
 
 ---
 
-## 💼 Work Experience  
-**Werkstudent – Emaded Hardware**  
-*2025 – Present*  
-- Developing smart emergency wristbands with integrated fall detection  
-- Conducting thermal and structural simulations using ANSYS  
-- Designing PCBs and managing component documentation systems  
-- Benchmarking sensor performance against industry standards
+## 🎓 Education
 
-**Intern – Emaded Hardware**  
-*2024 – 2025*  
-- Assisted in antenna integration and enclosure optimization  
-- Supported sensor evaluation and battery testing processes
+**Bachelor of Engineering – Electronics Engineering**  
+📍 Hochschule Hamm-Lippstadt, Germany  
+📆 Expected Graduation: February 2026
 
 ---
 
-## 🧪 Projects  
+## 💼 Experience
+
+### 🔹 Werkstudent – Microsynetics GmbH  
+🗓 Feb 2025 – Present  
+- Tested embedded devices and ensured hardware/software reliability  
+- Designed 3D enclosures (Fusion 360) and operated Bambu X1 / Prusa printers  
+- Assisted in high-frequency PCB layout with EMI reduction and Altium rule checks
+
+### 🔹 Intern – Microsynetics GmbH  
+🗓 Aug 2024 – Jan 2025  
+- Conducted thermal simulations in ANSYS  
+- Designed and documented PCBs (Altium)  
+- Configured u-blox LEXI-R10801D module (UART + AT commands)
+
+---
+
+## 📁 Projects
 
 ### 🚨 Smart Emergency Wristband  
-- Designed a compact, waterproof wearable device for fall detection and emergency alerts  
-- Utilized Fusion 360 for 3D modeling and ANSYS for simulations  
-- Benchmarked sensor performance against leading smartwatches
+> Waterproof wearable with fall detection  
+> 🔧 Fusion 360 + ANSYS | 📡 Sensor benchmarking
 
 ### 📊 PCB Component Management System  
-- Developed an Excel-based component tracking system inspired by Altium workflows  
-- Included revision control, part status tracking, and sourcing information
+> BOM-style Excel system for part sourcing and revision tracking
 
-### 📈 Ultrasonic Welding & Wire Bonding Data Analysis  
-- Analyzed manufacturing data using Python and MATLAB  
-- Focused on signal consistency and parameter optimization
+### 🤖 Autonomous Vehicle (AVR128A)  
+> Remote-controlled robot with IR start, HC05 Bluetooth, and ultrasonic avoidance
+
+### 🔄 Line Following Robot (Arduino)  
+> FSM-based design with C++, SolidWorks prototyping, color sensor actions
+
+### ⚙️ Independent Hardware Projects  
+- **Logic Gates with BJTs** → Perfboard + PCB layout  
+- **Push Button SMS Alert** → Raspberry Pi Pico W + Twilio API
 
 ---
+
+## 🔬 Lab Skills
+
+- Oscilloscope & breadboard use  
+- BJT amplifier circuits (common emitter/collector)  
+- Rectifier design & waveform analysis
