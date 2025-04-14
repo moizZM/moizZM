@@ -41,7 +41,7 @@ I work as a **Werkstudent in Embedded Hardware at Microsynetics GmbH**, where I 
 - Assisted in high-frequency PCB layout with EMI reduction and Altium rule checks
 
 ### 🔹 Intern – Microsynetics GmbH  
-🗓 Aug 2024 – Jan 2025  
+ Aug 2024 – Jan 2025  
 - Conducted thermal simulations in ANSYS  
 - Designed and documented PCBs (Altium)  
 - Configured u-blox LEXI-R10801D module (UART + AT commands)
