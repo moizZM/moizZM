@@ -16,12 +16,11 @@ I work as a **Werkstudent in Embedded Hardware at Microsynetics GmbH**, where I 
 
 ## 🔧 Skills
 
- CAD & Simulation: Fusion 360, SolidWorks, ANSYS  
- Programming & Tools: C++, Python (beginner), MATLAB, Arduino, Git, LaTeX  
- Embedded Systems: Sensor Integration, AT Commands,  
- PCB Design: Altium Designer, EMI Reduction, BOM Management  
- Prototyping: Raspberry Pi Pico W, 3D Printing (Bambu X1, Prusa), Perfboards  
- Languages: English (Fluent), German (Basic)
+ **CAD & Simulation**: Fusion 360, SolidWorks, ANSYS  
+ **Programming & Tools**: C++, Python (beginner), MATLAB, Arduino, Git, LaTeX  
+ **Embedded Systems**: Sensor Integration, AT Commands,  
+** PCB Design**: Altium Designer, EMI Reduction, BOM Management  
+ **Prototyping**: Raspberry Pi Pico W, 3D Printing (Bambu X1, Prusa), Perfboards  
 
 ---
 
