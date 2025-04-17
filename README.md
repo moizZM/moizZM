@@ -6,6 +6,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
 
 ---
+## About Me  
+I'm a 6th-semester Electronics Engineering student at Hochschule Hamm-Lippstadt (HSHL), currently working as a Werkstudent at **Emaded Hardware**. I have hands-on experience in embedded hardware development, including PCB design, 3D modeling, and simulation. My passion lies in creating innovative wearable technologies that address real-world problems.
 
 ##  Projects
 
