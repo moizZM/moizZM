@@ -6,7 +6,7 @@
 ---
 
 ## 🎓 About Me  
-I’m a 6th‑semester Electronics Engineering student at Hochschule Hamm‑Lippstadt (HSHL) and currently a Werkstudent in Embedded Hardware & DevOps. I bridge hardware and software to build smart wearables, autonomous systems, and cloud-linked simulations.
+I’m a Electronics Engineering student at Hochschule Hamm‑Lippstadt (HSHL) and currently a Werkstudent in Embedded Hardware & DevOps. I bridge hardware and software to build smart wearables, autonomous systems, and cloud-linked simulations.
 
 ---
 
