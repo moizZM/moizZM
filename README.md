@@ -12,7 +12,7 @@ I’m a Electronics Engineering student at Hochschule Hamm‑Lippstadt (HSHL) an
 
 ## 🔧 Core Skills  
 
-- **Embedded Systems & Firmware:** C/C++, MicroPython, FreeRTOS  
+- **Embedded Systems & Firmware:** C/C++,Linux,Python3, MicroPython, FreeRTOS  
 - **Hardware Design & Prototyping:** PCB layout (Altium Designer), perfboard, soldering, Fusion 360, LightBurn, 3D printing (Bambu Lab X1)  
 - **DevOps & Simulation:** RISC‑V toolchain (GCC, QEMU), CARLA integration, UDP networking  
 - **Wireless & IoT:** HC‑05 Bluetooth, Wi‑Fi (Pico W, WiFi Nina), MQTT, Twilio SMS API  
