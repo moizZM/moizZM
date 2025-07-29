@@ -81,5 +81,5 @@ _Apr 2024 – Jun 2024_
 ---
 
 ## 📫 Get in Touch  
-- ✉️ **Email:** moiz‑zaheer.malik@stud.hshl.de  
+- ✉️ **Email:**  moiz‑zaheer.malik@stud.hshl.de  
 - 🔗 **LinkedIn:** [linkedin.com/in/moiz-zaheer-malik-473ab1298](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)  
