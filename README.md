@@ -6,9 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue?style=for-the-badge)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=for-the-badge)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
 
-[![Email](https://img.shields.io/badge/Email--red?style=for-the-badge)](mailto:moizzaheermalik@gmail.com) 
-
-moizzaheermalik@gmail.com
+- ✉️ **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
 
 📍 Germany
 
