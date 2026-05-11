@@ -1,28 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue?style=flat)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=flat)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
-[![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-red?style=flat)](mailto:moizzaheermalik@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue?style=flat-square)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=flat-square)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
-[![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-red?style=flat-square)](mailto:moizzaheermalik@gmail.com)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue?style=for-the-badge)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=for-the-badge)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
 [![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-red?style=for-the-badge)](mailto:moizzaheermalik@gmail.com)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue?style=plastic)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=plastic)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
-[![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-red?style=plastic)](mailto:moizzaheermalik@gmail.com)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue?style=flat-square)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=flat-square)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
-[![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-red?style=flat-square)](mailto:moizzaheermalik@gmail.com)
-
-
-
 
 
 
