@@ -1,8 +1,8 @@
 # Moiz Zaheer Malik
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)  
-{https://authory.com/MoizZaheerMalik/po/h5wfi4}{Portfolio}
-📍 Germany · ✉️ moizzaheermalik@gmail.com  
+[![Portfolio](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-green)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
+📍 Germany · [![Email](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-red)] moizzaheermalik@gmail.com  
 
 ---
 
