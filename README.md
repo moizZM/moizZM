@@ -1,6 +1,4 @@
 
----
-
 # Moiz Zaheer Malik
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue?style=for-the-badge)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
