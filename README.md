@@ -7,29 +7,69 @@
 - ✉️ **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
 
 📍 Germany
+# Hi, I'm Moiz Zaheer Malik 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=for-the-badge)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
+[![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizzaheermalik@gmail.com)
+
+📍 Germany  
 
 ---
 
-## 🎓 About Me
+## 👨‍💻 About Me
 
-I am an Electronics Engineering graduate from Hochschule Hamm-Lippstadt in Germany.  
-I am currently working as a Working Student at Infineon, where I work on embedded systems, power electronics control, EtherCAT communication, and real-time hardware-in-the-loop testing.
+I am an Electronics Engineering graduate based in Germany.  
+I am currently working as a Working Student at Infineon, where I work on embedded systems, EtherCAT communication, TI C2000 microcontrollers, PLECS, TwinCAT, and real-time hardware testing.
 
-My main interests are embedded systems, microcontrollers, FPGA design, real-time communication, PCB design, and automotive control systems.
+My main interests are embedded systems, microcontrollers, FPGA design, real-time communication, PCB design, and power electronics control.
 
 ---
 
-## 🔧 Core Skills
+## 🔭 Currently Working On
 
-- **Embedded Systems:** C, C++, Python, MicroPython, FreeRTOS, bare-metal programming
-- **Microcontrollers:** TI C2000, Arduino, ESP32, Raspberry Pi Pico W
-- **Real-Time Communication:** EtherCAT, UDP, UART, SPI, MQTT
-- **Simulation & HIL:** PLECS, RT Box, TwinCAT, QEMU, CARLA
-- **FPGA & Digital Design:** VHDL, iCE40 FPGA, testbenches, 7-segment displays
-- **PCB & Hardware Design:** Altium Designer, KiCad, soldering, prototyping, component selection
-- **AI & Edge Computing:** Jetson Nano, YOLOv5, TensorRT, live video streaming
-- **Tools:** Git, Linux/Ubuntu, CCS, Excel VBA, Confluence, Fusion 360
-- **Languages:** English, German, Urdu/Hindi
+- EtherCAT slave development on TI C2000
+- PLECS controller integration with custom HAL files
+- TwinCAT communication and PDO data exchange
+- Real-time testing with RT Box
+- Embedded control for power electronics applications
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Programming & Embedded
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AEEF?style=for-the-badge)
+
+### Hardware & Microcontrollers
+
+![TI C2000](https://img.shields.io/badge/TI%20C2000-CC0000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-VHDL-orange?style=for-the-badge)
+
+### Simulation, Communication & Tools
+
+![EtherCAT](https://img.shields.io/badge/EtherCAT-Real--Time-red?style=for-the-badge)
+![TwinCAT](https://img.shields.io/badge/TwinCAT-Beckhoff-blue?style=for-the-badge)
+![PLECS](https://img.shields.io/badge/PLECS-Simulation-yellow?style=for-the-badge)
+![QEMU](https://img.shields.io/badge/QEMU-RISC--V-purple?style=for-the-badge)
+![CARLA](https://img.shields.io/badge/CARLA-Autonomous%20Driving-darkgreen?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-IoT-blueviolet?style=for-the-badge)
+
+### PCB, Linux & Development
+
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-PCB-blue?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-PCB-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CCS](https://img.shields.io/badge/Code%20Composer%20Studio-TI-red?style=for-the-badge)
 
 ---
 
@@ -39,15 +79,15 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 **Infineon Technologies** | 2026 – Present
 
 - Working on an EtherCAT slave system using a TI C2000 microcontroller.
-- Integrated EtherCAT communication with TwinCAT for cyclic real-time data exchange.
+- Integrated EtherCAT communication with TwinCAT for real-time cyclic data exchange.
 - Worked with PLECS-generated controller code and custom HAL integration.
-- Tested PWM, ADC feedback, and control signals using RT Box and measurement tools.
-- Supported hardware-in-the-loop testing for power-stage control applications.
+- Tested PWM, ADC feedback, GPIO signals, and PDO communication.
+- Supported hardware-in-the-loop testing using RT Box and measurement tools.
 
 ### Student Assistant, Embedded Systems / DevOpsSafe Lab  
 **Hochschule Hamm-Lippstadt** | Apr 2025 – 2026
 
-- Built and maintained a RISC-V embedded development setup on Ubuntu using GCC and QEMU.
+- Built and maintained a RISC-V development setup on Ubuntu using GCC and QEMU.
 - Developed bare-metal C and RISC-V assembly programs.
 - Implemented UDP communication between a QEMU-based RISC-V system and external simulation tools.
 - Connected a simulated RISC-V controller with CARLA for autonomous vehicle braking decisions.
@@ -65,7 +105,7 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 ### Intern, Embedded Hardware  
 **Microsynetics GmbH** | Aug 2024 – Jan 2025
 
-- Assisted in PCB layout, component selection, and prototype testing.
+- Assisted with PCB layout, component selection, and prototype testing.
 - Supported firmware and hardware integration tests.
 - Tested waterproof adhesive solutions for wearable devices.
 - Created prototype housings and managed BOM documentation.
@@ -75,7 +115,7 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 ## 🚀 Projects
 
 ### EtherCAT Slave for Power Electronics Control  
-_Bachelor Thesis / Infineon_
+**Bachelor Thesis / Infineon**
 
 - Developed an EtherCAT slave system on a TI C2000 F28P65x microcontroller.
 - Used TwinCAT as EtherCAT master and Beckhoff SSC for slave stack generation.
@@ -84,13 +124,13 @@ _Bachelor Thesis / Infineon_
 - Tested PWM, ADC, GPIO, and PDO communication with RT Box.
 
 ### RISC-V UDP Controller with QEMU and CARLA  
-_HSHL DevOpsSafe Lab_
+**HSHL DevOpsSafe Lab**
 
 - Set up a RISC-V Linux VM using QEMU.
 - Created two-way UDP communication between the VM and an external CARLA simulation.
 - Received vehicle data such as speed, distance, and pedestrian status.
 - Sent brake or resume commands back to the simulator.
-- Used this setup to test real-time control logic and fault behavior.
+- Used the setup to test real-time control logic and fault behavior.
 
 ### Jetson Nano Object Detection with YOLOv5 and TensorRT
 
@@ -125,7 +165,7 @@ _HSHL DevOpsSafe Lab_
 
 ### Autonomous Obstacle Avoidance Robot
 
-- Built a small robot using AVR128A microcontroller.
+- Built a small robot using an AVR128A microcontroller.
 - Used ultrasonic sensors, IR sensors, Bluetooth HC-05, ADC, timers, and interrupts.
 - Implemented basic sensor-based movement and obstacle avoidance.
 
@@ -141,6 +181,16 @@ _HSHL DevOpsSafe Lab_
 - Built a Raspberry Pi Pico W system using MicroPython.
 - Sent SMS alerts using the Twilio API.
 - Added Wi-Fi reconnect logic for stable operation.
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace YOUR_GITHUB_USERNAME with your real GitHub username -->
+
+![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
