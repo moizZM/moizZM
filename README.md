@@ -14,9 +14,10 @@
 [![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizzaheermalik@gmail.com)
 
 
-- ✉️ **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
-- 
+✉️ **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
+  
 </div>
+
 ---
 
 ## 👨‍💻 About Me
