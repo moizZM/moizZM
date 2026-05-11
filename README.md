@@ -1,4 +1,3 @@
-# Moiz Zaheer Malik
 
 # Moiz Zaheer Malik
 
@@ -7,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-red)](mailto:moizzaheermalik@gmail.com)
 
 📍 Germany
-📍 Germany ·
+
 
 ---
 
