@@ -1,3 +1,18 @@
+<div align="center">
+
+# Hi, I'm Moiz Zaheer Malik 👋
+
+### Electronics Engineering Graduate | Embedded Systems | EtherCAT | TI C2000 | FPGA
+
+📍 Germany
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
+[![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizzaheermalik@gmail.com)
+
+</div>
 
 📍 Germany
 # Hi, I'm Moiz Zaheer Malik 👋
