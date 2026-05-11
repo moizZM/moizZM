@@ -1,7 +1,8 @@
 # Moiz Zaheer Malik
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-blue)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)  
-📍 Germany · ✉️ moiz‑zaheer.malik@stud.hshl.de  
+{https://authory.com/MoizZaheerMalik/po/h5wfi4}{Portfolio}
+📍 Germany · ✉️ moizzaheermalik@gmail.com  
 
 ---
 
