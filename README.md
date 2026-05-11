@@ -1,5 +1,6 @@
 
-
+<div align="center">
+  
 # Hi, I'm Moiz Zaheer Malik 👋
 
 ### Electronics Engineering Graduate | Long-term availability | Open to relocation 
@@ -14,7 +15,8 @@
 
 
 - ✉️ **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
-
+- 
+</div>
 ---
 
 ## 👨‍💻 About Me
