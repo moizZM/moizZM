@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi, I'm Moiz Zaheer Malik 👋
 
