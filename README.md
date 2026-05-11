@@ -183,7 +183,6 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
   <img src="https://github-readme-stats.vercel.app/api?username=moizZM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizZM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="36%" />
 </p>
-
 ---
 
 ## 📫 Contact
