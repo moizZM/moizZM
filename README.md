@@ -179,9 +179,14 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 
 ## 📊 GitHub Stats
 
-![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moizZM&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizZM&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moizZM&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moizZM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizZM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
+</p>
 
 ---
 
