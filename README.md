@@ -1,13 +1,3 @@
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moizZM&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moizZM&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moizZM&theme=tokyonight" width="48%" />
-</p>
 
 📍 Germany
 # Hi, I'm Moiz Zaheer Malik 👋
@@ -189,9 +179,14 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizZM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizZM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="36%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moizZM&theme=tokyonight" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moizZM&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moizZM&theme=tokyonight" width="48%" />
+</p>
+
 ---
 
 ## 📫 Contact
