@@ -1,11 +1,11 @@
 
 <div align="center">
   
-# Hi, I'm Moiz Zaheer Malik 👋
+# Hi, I'm Moiz Zaheer Malik 
 
 ### Electronics Engineering Graduate | Long-term availability | Open to relocation 
 
-📍 Germany
+ Germany
 
 <br>
 
@@ -14,13 +14,13 @@
 [![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizzaheermalik@gmail.com)
 
 
-✉️ **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
+ **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
   
 </div>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am an Electronics Engineering graduate based in Germany.  
 I am currently working as a Working Student at Infineon, where I work on embedded systems, EtherCAT communication, TI C2000 microcontrollers, PLECS, TwinCAT, and real-time hardware testing.
@@ -29,7 +29,7 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
 - EtherCAT slave development on TI C2000
 - PLECS controller integration with custom HAL files
@@ -39,7 +39,7 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 ### Programming & Embedded
 
@@ -76,7 +76,7 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Working Student, Embedded Systems / Power Electronics  
 **Infineon Technologies** | 2026 – Present
@@ -115,7 +115,7 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### EtherCAT Slave for Power Electronics Control  
 **Bachelor Thesis / Infineon**
@@ -187,7 +187,7 @@ My main interests are embedded systems, microcontrollers, FPGA design, real-time
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moizZM&theme=tokyonight" width="100%" />
