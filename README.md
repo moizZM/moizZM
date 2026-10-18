@@ -1,207 +1,144 @@
-
-<div align="center">
-  
-# Hi, I'm Moiz Zaheer Malik 
-
-### Electronics Engineering Graduate | Long-term availability | Open to relocation 
-
- Germany
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zaheer%20Malik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://authory.com/MoizZaheerMalik/po/h5wfi4)
-[![Email](https://img.shields.io/badge/Email-moizzaheermalik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizzaheermalik@gmail.com)
-
-
- **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
-  
-</div>
-
----
-
-##  About Me
-
-I am an Electronics Engineering graduate based in Germany.  
-I am currently working as a Working Student at Infineon, where I work on embedded systems, EtherCAT communication, TI C2000 microcontrollers, PLECS, TwinCAT, and real-time hardware testing.
-
-My main interests are embedded systems, microcontrollers, FPGA design, real-time communication, PCB design, and power electronics control.
-
----
-
-##  Currently Working On
-
-- EtherCAT slave development on TI C2000
-- PLECS controller integration with custom HAL files
-- TwinCAT communication and PDO data exchange
-- Real-time testing with RT Box
-- Embedded control for power electronics applications
-
----
-
-##  Tools & Technologies
-
-### Programming & Embedded
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AEEF?style=for-the-badge)
-
-### Hardware & Microcontrollers
-
-![TI C2000](https://img.shields.io/badge/TI%20C2000-CC0000?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-VHDL-orange?style=for-the-badge)
-
-### Simulation, Communication & Tools
-
-![EtherCAT](https://img.shields.io/badge/EtherCAT-Real--Time-red?style=for-the-badge)
-![TwinCAT](https://img.shields.io/badge/TwinCAT-Beckhoff-blue?style=for-the-badge)
-![PLECS](https://img.shields.io/badge/PLECS-Simulation-yellow?style=for-the-badge)
-![QEMU](https://img.shields.io/badge/QEMU-RISC--V-purple?style=for-the-badge)
-![CARLA](https://img.shields.io/badge/CARLA-Autonomous%20Driving-darkgreen?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-IoT-blueviolet?style=for-the-badge)
-
-### PCB, Linux & Development
-
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-PCB-blue?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-PCB-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CCS](https://img.shields.io/badge/Code%20Composer%20Studio-TI-red?style=for-the-badge)
-
----
-
-##  Professional Experience
-
-### Working Student, Embedded Systems / Power Electronics  
-**Infineon Technologies** | 2026 – Present
-
-- Working on an EtherCAT slave system using a TI C2000 microcontroller.
-- Integrated EtherCAT communication with TwinCAT for real-time cyclic data exchange.
-- Worked with PLECS-generated controller code and custom HAL integration.
-- Tested PWM, ADC feedback, GPIO signals, and PDO communication.
-- Supported hardware-in-the-loop testing using RT Box and measurement tools.
-
-### Student Assistant, Embedded Systems / DevOpsSafe Lab  
-**Hochschule Hamm-Lippstadt** | Apr 2025 – 2026
-
-- Built and maintained a RISC-V development setup on Ubuntu using GCC and QEMU.
-- Developed bare-metal C and RISC-V assembly programs.
-- Implemented UDP communication between a QEMU-based RISC-V system and external simulation tools.
-- Connected a simulated RISC-V controller with CARLA for autonomous vehicle braking decisions.
-- Worked with Linux networking, TAP interfaces, port forwarding, and real-time message exchange.
-
-### Working Student, Embedded Hardware  
-**Microsynetics GmbH** | Feb 2025 – Jul 2025
-
-- Tested and debugged PCBs and wearable device prototypes.
-- Supported hardware validation, soldering, and prototype assembly.
-- Designed 3D housings and adhesive cutouts for wearable devices.
-- Built a 5.1 V parallel charging station for prototype testing.
-- Created technical documentation and automated tracking files using Excel VBA.
-
-### Intern, Embedded Hardware  
-**Microsynetics GmbH** | Aug 2024 – Jan 2025
-
-- Assisted with PCB layout, component selection, and prototype testing.
-- Supported firmware and hardware integration tests.
-- Tested waterproof adhesive solutions for wearable devices.
-- Created prototype housings and managed BOM documentation.
-
----
-
-##  Projects
-
-### EtherCAT Slave for Power Electronics Control  
-**Bachelor Thesis / Infineon**
-
-- Developed an EtherCAT slave system on a TI C2000 F28P65x microcontroller.
-- Used TwinCAT as EtherCAT master and Beckhoff SSC for slave stack generation.
-- Integrated PLECS controller code into a CCS-based TI project.
-- Created custom `plx_hal.c` and `plx_hal.h` files to connect PLECS code with TI DriverLib and EtherCAT PDOs.
-- Tested PWM, ADC, GPIO, and PDO communication with RT Box.
-
-### RISC-V UDP Controller with QEMU and CARLA  
-**HSHL DevOpsSafe Lab**
-
-- Set up a RISC-V Linux VM using QEMU.
-- Created two-way UDP communication between the VM and an external CARLA simulation.
-- Received vehicle data such as speed, distance, and pedestrian status.
-- Sent brake or resume commands back to the simulator.
-- Used the setup to test real-time control logic and fault behavior.
-
-### Jetson Nano Object Detection with YOLOv5 and TensorRT
-
-- Built a real-time object detection pipeline on Jetson Nano 2GB.
-- Used YOLOv5 with TensorRT for optimized GPU inference.
-- Streamed video over UDP and displayed live detection output.
-- Measured FPS, inference time, GPU usage, RAM usage, and temperature.
-- Created CSV logs for performance analysis.
-
-### 8-bit RISC CPU on FPGA / Custom PCB
-
-- Designed a simple 8-bit RISC CPU using VHDL.
-- Implemented basic instructions such as load, store, add, subtract, AND, and NAND.
-- Designed a custom FPGA board using iCE40UP5K FPGA.
-- Added SPI flash, USB interface, oscillator, reset buttons, LEDs, and 7-segment display.
-- Verified the design using simulation and hardware testing.
-
-### IoT Solar Tracking System
-
-- Built a solar tracking system using LDR sensors and servo motors.
-- Used Arduino Uno WiFi Rev2 / Arduino Mega with WiFi Nina for sensor reading.
-- Used Raspberry Pi as an MQTT broker.
-- Added ESP32 for solar output measurement and web-based monitoring.
-- Created real-time communication between hardware devices using MQTT.
-
-### Cross-Traffic Simulation for Autonomous Vehicles
-
-- Designed a traffic intersection simulation for autonomous vehicles.
-- Used C, FreeRTOS, and VHDL for real-time behavior.
-- Modeled vehicles using queues and priority rules.
-- Added emergency vehicle detection and priority handling.
-
-### Autonomous Obstacle Avoidance Robot
-
-- Built a small robot using an AVR128A microcontroller.
-- Used ultrasonic sensors, IR sensors, Bluetooth HC-05, ADC, timers, and interrupts.
-- Implemented basic sensor-based movement and obstacle avoidance.
-
-### Autonomous Line-Follower Vehicle
-
-- Built an Arduino-based line-following vehicle.
-- Used a TCS3200 color sensor for path detection.
-- Designed mechanical parts and mounts using SolidWorks.
-- Improved reliability through testing and calibration.
-
-### Push-Button SMS Alert System
-
-- Built a Raspberry Pi Pico W system using MicroPython.
-- Sent SMS alerts using the Twilio API.
-- Added Wi-Fi reconnect logic for stable operation.
-
----
-
-##  GitHub Stats
+<!-- Profile layout saved 18 October 2026. Editing and restore help: docs/PROFILE_GUIDE.md -->
+<table>
+<tr>
+<td valign="middle" width="72%">
+<p><strong>HARDWARE VALIDATION · EMBEDDED SYSTEMS · POWER ELECTRONICS</strong></p>
+<h1>Moiz Zaheer Malik</h1>
+<h2>Hardware. Tested. Trusted.</h2>
+<p>Electronic Engineering graduate working in <strong>Systems Engineering at Infineon Technologies AG</strong>.</p>
+<p>I connect embedded software, electronics and practical testing — from EtherCAT control and HIL validation to PCB design and working prototypes.</p>
+<p><strong>Lippstadt, Germany · Open to relocation</strong></p>
+</td>
+<td width="28%" align="center" valign="middle"><img src="assets/portfolio/moiz-zaheer-malik.jpg" alt="Portrait of Moiz Zaheer Malik" width="220" /></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moizZM&theme=tokyonight" width="100%" />
+<a href="https://github.com/moizZM/moizZM/blob/main/portfolio/README.md"><img src="assets/portfolio/button-projects.svg" alt="View my projects" width="182" height="48" /></a>
+<a href="https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298"><img src="assets/portfolio/button-linkedin.svg" alt="LinkedIn profile" width="182" height="48" /></a>
+<a href="mailto:moizzaheermalik@gmail.com"><img src="assets/portfolio/button-email.svg" alt="Contact me by email" width="182" height="48" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moizZM&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moizZM&theme=tokyonight" width="48%" />
-</p>
+<p align="center"><a href="#about">About</a> · <a href="#work-experience">Experience</a> · <a href="#professional-feedback">Feedback</a> · <a href="#projects-to-start-with">Projects</a> · <a href="#research">Research</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a></p>
 
----
+## About
 
-## 📫 Contact
+I have 2+ years of practical engineering experience across Infineon, microsynetics and university research. My work combines semiconductor testing, embedded control, hardware debugging and technical documentation. I enjoy turning an engineering requirement into something I can build, measure and explain.
 
-- ✉️ **Email:** [moizzaheermalik@gmail.com](mailto:moizzaheermalik@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/moiz-zaheer-malik-473ab1298](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298)
-- 🌐 **Portfolio:** [View My Work](https://authory.com/MoizZaheerMalik/po/h5wfi4)
+| Bachelor thesis | B.Eng. final grade | Degree completed | Research |
+| :---: | :---: | :---: | :---: |
+| **1.0** | **2.0** | **210 ECTS** | **ETFA 2026 accepted full paper** |
+
+## Work experience
+
+### Infineon Technologies AG · Warstein, Germany
+
+**Working Student · Systems Engineering** · August 2026–present
+
+- Support power semiconductor module validation, including Double Pulse Test preparation and execution.
+- Assist with current and temperature testing, measurement setups, result analysis and documentation.
+
+**Working Student · Product Application Engineering** · March–July 2026
+
+- Implemented EtherCAT slave functionality through PLC and microcontroller programming.
+- Configured the software/analysis environment and tested solutions in a Hardware-in-the-Loop setup.
+
+**Bachelor Thesis Student · Product Application Engineering** · November 2025–February 2026
+
+- Developed and validated an EtherCAT slave on TI C2000 F28P65x with TwinCAT 3 and Beckhoff Slave Stack Code.
+- Integrated PDOs, GPIO, PWM, ADC and PLECS-generated control code; checked behaviour using RT Box, TwinCAT Scope and PicoScope. **Thesis grade: 1.0.**
+
+### Hochschule Hamm-Lippstadt · Lippstadt, Germany
+
+**Student Assistant · DevOpsSafe research project** · April 2025–April 2026
+
+- Supported RISC-V/QEMU virtual controller environments and CARLA telemetry exchange over UDP/JSON.
+- Worked with driving scenarios, fault injection, supervisory monitoring and CSV/JSON test logs.
+- Contributed to research on the validation of virtualized automotive controllers.
+
+### microsynetics GmbH · Soest, Germany
+
+**Working Student · Embedded Hardware** · February–July 2025  
+**Intern · Embedded Hardware** · August 2024–January 2025
+
+- Tested smart-wearable prototypes, development boards, sensors and PCBs; supported hardware debugging and integration.
+- Designed and checked enclosures and component fit in Fusion 360; supported 3D printing and thermal simulation.
+- Researched components and prepared BOMs, test documentation and Excel/VBA tools.
+
+## Professional feedback
+
+> “Mr. Malik worked independently, reliably and efficiently, and found good solutions.”  
+> **Infineon Technologies AG** · Official employment reference
+
+> “consistently exceeded expectations and delivered outstanding results.”  
+> **Michael Hummels, CTO · microsynetics GmbH** · Excerpt from employment reference
+
+> “very good studies and research capabilities”  
+> **Prof. Dr. Achim Rettberg · Hochschule Hamm-Lippstadt** · Letter of recommendation
+
+Reference documents are available on request.
+
+## Projects to start with
+
+Three selected examples. [Explore all 15 projects →](portfolio/README.md)
+
+<table>
+<tr>
+<td width="38%" valign="top"><a href="https://github.com/moizZM/moizZM/blob/main/portfolio/projects/ethercat-hil.md"><img src="assets/portfolio/featured-ethercat-hil.jpg" alt="EtherCAT and HIL verification — open project details" width="320" /></a></td>
+<td valign="top"><h3>EtherCAT and HIL verification</h3><p><strong>Bachelor thesis · Grade 1.0</strong></p><p>Integrated an EtherCAT slave on TI C2000 with TwinCAT 3 and PLECS / RT Box.</p><p><strong>Result:</strong> Verified cyclic PDO exchange, digital and analogue feedback, PWM and ADC behaviour.</p><p><sub>TI C2000 · EtherCAT · TwinCAT 3 · PLECS</sub></p><a href="https://github.com/moizZM/moizZM/blob/main/portfolio/projects/ethercat-hil.md"><strong>View project details →</strong></a></td>
+</tr>
+<tr>
+<td width="38%" valign="top"><a href="https://github.com/moizZM/moizZM/blob/main/portfolio/projects/carla-riscv.md"><img src="assets/portfolio/featured-carla-riscv.jpg" alt="Automotive controller testing — open project details" width="320" /></a></td>
+<td valign="top"><h3>Automotive controller testing</h3><p><strong>DevOpsSafe research contribution</strong></p><p>Supported a RISC-V / QEMU virtual controller exchanging UDP/JSON telemetry with CARLA.</p><p><strong>Result:</strong> Examined controller behaviour under dropped, delayed, modified and stale messages using test logs.</p><p><sub>CARLA · RISC-V · QEMU · Python · UDP</sub></p><a href="https://github.com/moizZM/moizZM/blob/main/portfolio/projects/carla-riscv.md"><strong>View project details →</strong></a></td>
+</tr>
+<tr>
+<td width="38%" valign="top"><a href="https://github.com/moizZM/moizZM/blob/main/portfolio/projects/fpga-board.md"><img src="assets/portfolio/featured-fpga-board.jpg" alt="Custom FPGA board design — open project details" width="320" /></a></td>
+<td valign="top"><h3>Custom FPGA board design</h3><p><strong>University team project · PCB design</strong></p><p>Owned the KiCad development-board design around a Lattice iCE40UP5K FPGA.</p><p><strong>Result:</strong> Completed schematic/layout checks and prepared Gerber and drill files.</p><p><sub>KiCad · iCE40UP5K · USB · UART · SPI</sub></p><a href="https://github.com/moizZM/moizZM/blob/main/portfolio/projects/fpga-board.md"><strong>View project details →</strong></a></td>
+</tr>
+</table>
+
+**Also building:** [Jetson Nano restricted-area monitor](portfolio/projects/restricted-area-monitor.md) — person detection, zone-entry alerts, Node-RED and event evidence.
+
+**More engineering work:** [PCB design](portfolio/README.md#pcb-design) · [Wearable hardware and CAD](portfolio/README.md#wearable-hardware-and-mechanical-design) · [Robotics and IoT](portfolio/README.md#robotics-iot-and-systems-modelling)
+
+## Research
+
+**Towards Safety and Validation of Virtualized Automotive Controllers via a Modular Testbed with Supervisory Monitoring and Standards-Aligned Fault Injection**
+
+Co-author · Accepted full paper, CAIESS workshop at ETFA 2026.
+
+My supporting research work included the RISC-V/QEMU controller environment, CARLA telemetry over UDP, controller scripts and test logging. [Explore the related project →](portfolio/projects/carla-riscv.md)
+
+## Skills
+
+| Area | Tools and practical work |
+| --- | --- |
+| Embedded control | C/C++, Python, TI C2000, STM32, Arduino, ESP32, AVR, Raspberry Pi, Jetson Nano |
+| Validation and measurement | EtherCAT, TwinCAT 3, Beckhoff SSC, PLECS, RT Box HIL, PicoScope, oscilloscopes, multimeters |
+| PCB and digital design | KiCad, Altium Designer, schematic/layout, ERC/DRC, manufacturing files, VHDL, FPGA |
+| Simulation and communication | CARLA, RISC-V, QEMU, Linux, UDP/JSON, MQTT, fault injection, test logs |
+| Mechanical development | Fusion 360, SolidWorks, ANSYS Workbench, 3D printing, assembly and fit checks |
+| Engineering workflow | Git, technical documentation, Confluence, Excel/VBA, component and datasheet research |
+
+## Education
+
+**M.Eng. Embedded Systems Engineering** · Fachhochschule Dortmund  
+Started September 2026 · Planned completion August 2029
+
+**B.Eng. Electronic Engineering** · Hochschule Hamm-Lippstadt  
+September 2022–July 2026 · Final grade **2.0**, thesis **1.0**, project work **1.3**, practical semester **1.3**, **210 ECTS**
+
+**Additional training:** PLECS and RT Box workshop at Infineon; *Concepts for Small Antennas and How to Integrate*, cetecom advanced, January 2025.
+
+## Contact
+
+Interested in hardware validation, embedded systems, PCB development or an engineering project? [Email me](mailto:moizzaheermalik@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/moiz-zaheer-malik-473ab1298).
+
+**Email:** moizzaheermalik@gmail.com · **Languages:** English (fluent), German (basic)
+
+<details>
+<summary>Portfolio editing and previous version</summary>
+
+[Editing and restore guide](docs/PROFILE_GUIDE.md) · [Previous profile](docs/README-before-2026-10-18.md)
+
+</details>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="48" viewBox="0 0 182 48" role="img" aria-label="Contact me">
+  <title>Contact me</title>
+  <defs><linearGradient id="g"><stop stop-color="#b9f66b"/><stop offset="1" stop-color="#70e1c7"/></linearGradient></defs>
+  <rect x="2" y="5" width="178" height="42" rx="12" fill="#aebbc2"/>
+  <rect x="2" y="1" width="178" height="42" rx="12" fill="#f6f9fc" stroke="#b9cbd5"/>
+  <text x="91" y="27" text-anchor="middle" fill="#10223a" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">Contact me ↗</text>
+</svg>
